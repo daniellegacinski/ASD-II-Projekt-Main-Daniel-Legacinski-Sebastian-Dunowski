@@ -1,0 +1,3 @@
+This file represents project stage 15.
+Commit message:
+Add grading categories

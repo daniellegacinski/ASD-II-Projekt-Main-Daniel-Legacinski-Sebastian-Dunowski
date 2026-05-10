@@ -12,14 +12,20 @@ ocenami,
 semestrami,
 użytkownikami,
 eksportem danych.
+
 ---
+
 System obsługuje trzy role:
 Administrator
 Prowadzący
 Student
+
 ---
+
 Projekt został przygotowany zgodnie z wymaganiami dokumentacji projektu.
+
 ---
+
 Główne funkcje systemu:
 
 Administrator

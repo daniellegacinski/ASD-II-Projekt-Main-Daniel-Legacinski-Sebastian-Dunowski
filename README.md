@@ -2,8 +2,11 @@
 
 Akademicki System Zajęć, Frekwencji i Ocen
 Opis projektu
+
 ---
+
 Projekt został wykonany jako system akademicki do zarządzania:
+
 zajęciami,
 frekwencją,
 ocenami,

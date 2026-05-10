@@ -1,0 +1,3 @@
+This file represents project stage 16.
+Commit message:
+Implement weighted average calculation

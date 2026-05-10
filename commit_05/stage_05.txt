@@ -1,0 +1,3 @@
+This file represents project stage 5.
+Commit message:
+Add role-based authorization

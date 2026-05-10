@@ -63,11 +63,16 @@ ABSENT	0.0
 EXCUSED	nie liczy się
 Status AT_RISK
 
+---
+
 Student otrzymuje status:
 AT_RISK
 gdy:
 frekwencja < 60%
 i liczba spotkań >= 3
+
+---
+
 Oceny
 
 Obsługiwana skala ocen:
@@ -79,10 +84,14 @@ Obsługiwana skala ocen:
 4.5
 5.0
 
+---
+
 Średnia ważona:
 liczona wyłącznie z istniejących ocen,
 zaokrąglana do 2 miejsc po przecinku.
 Technologie
+
+---
 
 Projekt został wykonany przy użyciu:
 Python
@@ -93,10 +102,14 @@ CSS
 Bootstrap
 Design projektu
 
+---
+
 Projekt wykorzystuje nowoczesny design w kolorach:
 czerwony,
 biały,
 czarny.
+
+---
 
 Interfejs został przygotowany w stylu konferencyjnym oraz prezentacyjnym.
 Struktura projektu
@@ -112,6 +125,8 @@ akademicki_system/
 ├── static/
 ├── tests/
 └── exports/
+
+---
 
 Uruchomienie projektu
 1. Pobranie projektu
@@ -139,6 +154,8 @@ login: student1@example.com
 hasło: student123
 Testy
 
+---
+
 Projekt zawiera testy:
 poprawności frekwencji,
 średniej ważonej,
@@ -146,6 +163,8 @@ uprawnień użytkowników,
 blokady edycji po zamknięciu semestru,
 poprawności generowania spotkań.
 Bezpieczeństwo
+
+---
 
 W projekcie zastosowano:
 autoryzację użytkowników,
@@ -163,6 +182,8 @@ minimum 2 prowadzących,
 minimum 8 studentów,
 przykładowe oceny,
 przykładową frekwencję.
+
+---
 
 Autory:
 Daniel Legacinski

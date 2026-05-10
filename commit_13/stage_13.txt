@@ -1,0 +1,3 @@
+This file represents project stage 13.
+Commit message:
+Add attendance management

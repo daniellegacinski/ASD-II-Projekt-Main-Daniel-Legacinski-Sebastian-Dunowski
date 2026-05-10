@@ -1,4 +1,4 @@
-# ASD-II-Projekt-Main-Daniel-Legacinski-Sebastian-Dunowski
+# ASD-II-Projekt-Main-Daniel-Legacinski-Sebastian-Dunovski
 
 Akademicki System Zajęć, Frekwencji i Ocen - Opis projektu
 

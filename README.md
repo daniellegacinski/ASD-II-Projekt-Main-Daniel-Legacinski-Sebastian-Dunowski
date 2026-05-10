@@ -186,6 +186,4 @@ przykładową frekwencję.
 ---
 
 Autory:
-Daniel Legacinski
-Sebastian Dunovski
-Uniwersytet w Białymstoku
+Daniel Legacinski - Sebastian Dunovski - Uniwersytet w Białymstoku
